@@ -1,6 +1,6 @@
 # Electromagnetic Inverse Scattering
 
-> **Disclaimer:** The Python port and scientific documentation in this repository were 100% vibecoded (AI-generated using Claude).
+> The Python port and scientific documentation in this repository were 100% vibecoded.
 
 Educational materials for solving 2D TM (Transverse Magnetic) electromagnetic inverse scattering problems using the Born approximation and TSVD (Truncated Singular Value Decomposition) regularization.
 
@@ -106,3 +106,4 @@ See [python/VALIDATION.md](python/VALIDATION.md) for detailed comparison.
 ## License
 
 Educational use.
+
