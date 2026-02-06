@@ -58,11 +58,12 @@ run_inversion_born(data_file='../matlab/simulated/inversion/DATA_scenario_square
 ### MATLAB
 
 1. Open MATLAB and navigate to `matlab/simulated/scenario/`
-2. Run `c1_Scenario.m` to generate forward data
-3. Navigate to `matlab/simulated/inversion/`
-4. Run `c2_Inversion_BORN.m` to perform reconstruction
+2. Run `c1_Scenario.m` to generate forward data (`DATA_scenario.mat`)
+3. Copy the generated file to the inversion folder: `matlab/simulated/inversion/`
+4. Navigate to `matlab/simulated/inversion/`
+5. Run `c2_Inversion_BORN.m` to perform reconstruction
 
-**Note:** Pre-generated data files (`DATA_scenario.mat`, `DATA_scenario_square.mat`, etc.) are included in the repository, so you can skip steps 1-2 and run the inversion directly.
+**Note:** Pre-generated data files (`DATA_scenario.mat`, `DATA_scenario_square.mat`, etc.) are already included in `matlab/simulated/inversion/`, so you can skip steps 1-3 and run the inversion directly.
 
 ## Key Concepts
 
