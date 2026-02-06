@@ -1,5 +1,7 @@
 # Inverse Scattering - Python Port
 
+> **Disclaimer:** This Python port and its documentation were 100% vibecoded (AI-generated using Claude).
+
 A Python implementation of 2D TM electromagnetic inverse scattering exercises using Born approximation and TSVD regularization.
 
 This is a **1:1 port** of the original MATLAB exercises, maintaining the same algorithms, parameters, and workflow.
@@ -144,7 +146,3 @@ This Python port maintains full compatibility with the MATLAB implementation:
 
 - [`VALIDATION.md`](VALIDATION.md) - Detailed comparison with MATLAB results
 - [`PERFORMANCE.md`](PERFORMANCE.md) - Performance benchmarks and optimization notes
-
----
-
-> **Note:** This Python port and its documentation were generated with AI assistance (Claude).
